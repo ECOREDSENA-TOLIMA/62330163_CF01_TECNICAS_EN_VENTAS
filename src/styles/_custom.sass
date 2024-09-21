@@ -2,17 +2,502 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 55%
+    right: 30%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 15%
+    right: 80%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 19%
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: #12263F
+
+.boton *, .boton--sm *
+  color: #FFFFFF
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+.tema1
+  .tarjeta.color-primario
+    background-image: url(../assets/curso/temas/tema1/fondo-tarjeta.svg)
+    background-repeat: no-repeat
+    background-size: cover
+  .tarjeta.color-primario, li 
+    color: #000 !important
+  .tarjeta.color-primario, h2, p
+    color: #000 !important
+
+  .slyder-f__btn, i 
+    color: #2A34D2
+
+  @media only screen and (min-width: 430px) and (max-width: 431px)
+    .col-ipad
+      margin-right: 5rem !important
+      width: 100%
+
+  .img-infografica-b__item__tooltip
+    display: none
+
+  .img-infografica-b__modal
+    background-color: $color-adicional-3
+    margin: -20px
+    border-radius: 1rem
+
+  .img-infografica-b__modal__contenido div> *
+    color: #fff !important
+
+  .img-infografica-b__modal__btn-cerrar
+    i
+      color: $white
+
+  .tabs-c__tab
+    background-color: #E0E9E9
+    
+  .tabs-c.color-acento-botones .tabs-c__tab--active
+    background-color: #FFFF
+
+  .color_img-tab
+    .tabs-c__tab
+      img
+        filter: grayscale(1)
+    .tabs-c__tab.tabs-c__tab--active
+      img 
+        filter: grayscale(0)
+
+  .bg_1
+    background-color:#FFFAC1
+
+  .img-t
+    width: auto
+    height: auto 
+
+  ::-webkit-scrollbar
+    display: none
+
+.tema2
+  .tabs-c__tab
+    background-color: #E0E9E9
+    
+  .tabs-c.color-acento-botones .tabs-c__tab--active
+    background-color: #FFFF
+
+  .color_img-tab
+    .tabs-c__tab
+      img
+        filter: grayscale(1)
+    .tabs-c__tab.tabs-c__tab--active
+      img 
+        filter: grayscale(0)
+  
+  ::-webkit-scrollbar
+    display: none
+
+  .fondo-2
+    background-color: $color-acento-contenido
+    border-radius: 1rem
+    color: #FFFF !important
+
+  .slyder-b-img
+    background-image: url(../assets/curso/temas/tema2/fondo.png) !important
+
+  .slyder__btn
+    background-color: $color-acento-botones
+    color: #FFFF
+
+  .tarjeta--tabla
+    background-color: #FFFAC1
+
+  .tarjeta--tabla:nth-child(even)
+    background-color: #FFE3C7
+
+  .tabs-a__tab
+    background-color: #E3EFF9
+
+  .tarjeta.color-acento-botones--borde
+    background-color: #FFFAC1
+    border: solid 4px #FFFAC1
+
+  .fondo2-t2
+    background-image: url(../assets/curso/temas/tema2/fondo-01.svg) !important
+    margin-inline: -3rem
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+
+.tema3
+  @media only screen and (width: 768px) 
+    .col-ipad
+      margin-right: 5rem !important
+      width: 80%
+  @media only screen and (min-width: 390px) and (max-width: 391px)
+    .col-ipad
+      margin-right: 2rem !important
+      width: 100%
+  @media only screen and (min-width: 768px) and (max-width: 769px)
+    .col-ipad
+      margin-right: 2rem !important
+      width: 100%
+  @media only screen and (min-width: 820px) and (max-width: 821px)
+    .col-ipad
+      margin-right: 2rem !important
+      width: 100%
+  @media only screen and (min-width: 1024px) and (max-width: 1025px)
+    .col-ipad
+      margin-right: 2rem !important
+      width: 100%
+
+  .tarjetas-up
+    overflow: hidden
+    border-radius: 5px
+    position: relative
+    &_card
+      transition: bottom .3s ease-in-out
+      position: absolute
+      border-radius: 5px
+      width: 100%
+      height: 100%
+      left: 0
+      bottom: -82%
+      i:last-child
+        display: none
+    &:hover
+      .tarjetas-up_card
+        bottom: -15%
+        @media (max-width: $bp-max-xl)
+          bottom: -35%
+        @media (max-width: $bp-max-lg)
+          bottom: -30%
+        @media (max-width: $bp-max-md)
+          bottom: -35%
+        @media (max-width: $bp-max-xs)
+          bottom: 0
+      i:first-child
+        display: none
+      i:last-child
+        display: block
+  
+  .tarjeta-foto-hover
+    position: relative
+    overflow: hidden
+    &:hover
+      .tarjeta-foto-hover__tarjeta
+        transform: translateY(0%)
+
+    &__titulo
+      position: absolute
+      bottom: 0
+      width: 100%
+    &__tarjeta
+      transition: transform 0.3s ease-in-out
+      position: absolute
+      bottom: 0
+      width: 100%
+      height: 100%
+      transform: translateY(100%)
+
+  .bg-degrade
+    background: #D4D6F6
+    @media (max-width: 412px)
+      background-repeat: no-repeat
+      font-size: 10px !important
+    @media (max-width: 576px)
+      background-repeat: no-repeat
+      font-size: 14px
+
+  .cajon.color-primario
+    background-color: #FFFAC1
+
+  .bloque-texto-b.color-acento-contenido:before
+    background-color: #FFFAC1
+
+  .tarjeta.tarjeta--azul
+    background-color: #E3EFF9
+
+  .tarjeta.tarjeta--azul.acordion__activo
+    background-color: #FFE3C7
+
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--azul
+    background-color: #E3EFF9
+
+  .acordion__accion__btn--a
+    background-color: #2A34D2
+    color: #ffff
+    border: none
+
+  //.tarjetas
+  .tarjeta.tarjeta1
+    background-color: #FFE3C7
+
+  .tarjeta-avatar-b__img
+    min-width: 11%;
+    max-width: 11%;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+.tema4
+  .cajon.color-primario
+    background-color: #FFFAC1
+
+  .fondo-2
+    background-color: $color-acento-contenido
+    border-radius: 1rem
+    color: #FFFF !important
+
+  .tarjeta.color-secundario
+    background-image: url(../assets/curso/temas/tema4/fondo.svg)
+    background-repeat: no-repeat
+    background-size: cover
+
+  .tarjeta--tabla
+    background-color: #FFFAC1
+
+  .tarjeta--tabla:nth-child(even)
+    background-color: #FFE3C7
+
+  .tabs-a__tab
+    background-color: #E3EFF9
+
+  .tarjeta.color-acento-botones--borde
+    background-color: #FFFAC1
+    border: solid 4px #FFFAC1
+
+  .tarjeta--gris
+    background-color: #E3EFF9
+
+  .linea-tiempo-edit
+    .linea-tiempo-d__item__content
+      transition: all .3s linear
+    .linea-tiempo-d__item--selected
+      .linea-tiempo-d__item__number
+        background-color: #851717 !important
+        color: white !important
+      .linea-tiempo-d__item__content
+        background-color: #FFE3C7 !important
+
+  .tarjeta--boton
+    background-image: url(../assets/curso/temas/tema4/fondo.svg)
+    background-repeat: no-repeat
+    background-size: cover
+  
+  .tarjeta--boton:hover
+    background-image: url(../assets/curso/temas/tema4/fondo-cambio.svg)
+    background-repeat: no-repeat
+    background-size: cover
+
+.tema5
+  .tarjeta.color-primario
+    background-image: url(../assets/curso/temas/tema1/fondo-tarjeta.svg)
+    background-repeat: no-repeat
+    background-size: cover
+  .tarjeta.color-primario, li 
+    color: #000 !important
+  .tarjeta.color-primario, h2, p
+    color: #000 !important
+
+  .slyder-f__btn, i 
+    color: #2A34D2
+
+  @media only screen and (min-width: 430px) and (max-width: 431px)
+    .col-ipad
+      margin-right: 5rem !important
+      width: 100%
+
+  .fondo2-t2
+    background-image: url(../assets/curso/temas/tema2/fondo-01.svg) !important
+    margin-inline: -3rem
+    @media screen and (max-width: $bp-max-sm)
+      margin-inline: -1.5rem
+  
+  .tarjeta--tabla
+    background-color: #FFFAC1
+
+  .tarjeta--tabla:nth-child(even)
+    background-color: #FFE3C7
+
+  .tabs-a__tab
+    background-color: #E3EFF9
+
+  .tarjeta.color-acento-botones--borde
+    background-color: #FFFAC1
+    border: solid 4px #FFFAC1
+
+  //.tarjetas
+  .tarjeta.tarjeta1
+    background-color: #FFE3C7
+
+  .tarjeta-avatar-b__img
+    min-width: 14%;
+    max-width: 14%;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+  .cajon.color-primario
+    background-color: #FFFAC1
+
+  .tarjeta--tabla
+    background-color: #FFFAC1
+
+  .tarjeta--tabla:nth-child(even)
+    background-color: #FFE3C7
+
+  .tabs-a__tab
+    background-color: #E3EFF9
+
+  .tarjetas-up
+    overflow: hidden
+    border-radius: 5px
+    position: relative
+    &_card
+      transition: bottom .3s ease-in-out
+      position: absolute
+      border-radius: 5px
+      width: 100%
+      height: 100%
+      left: 0
+      bottom: -82%
+      i:last-child
+        display: none
+    &:hover
+      .tarjetas-up_card
+        bottom: -15%
+        @media (max-width: $bp-max-xl)
+          bottom: -35%
+        @media (max-width: $bp-max-lg)
+          bottom: -30%
+        @media (max-width: $bp-max-md)
+          bottom: -35%
+        @media (max-width: $bp-max-xs)
+          bottom: 0
+      i:first-child
+        display: none
+      i:last-child
+        display: block
+  
+  .tarjeta-foto-hover
+    position: relative
+    overflow: hidden
+    &:hover
+      .tarjeta-foto-hover__tarjeta
+        transform: translateY(0%)
+
+    &__titulo
+      position: absolute
+      bottom: 0
+      width: 100%
+    &__tarjeta
+      transition: transform 0.3s ease-in-out
+      position: absolute
+      bottom: 0
+      width: 100%
+      height: 100%
+      transform: translateY(100%)
+
+  .bg-degrade
+    background: #FFE3C7
+    @media (max-width: 412px)
+      background-repeat: no-repeat
+      font-size: 10px !important
+    @media (max-width: 576px)
+      background-repeat: no-repeat
+      font-size: 14px
+
+  ::-webkit-scrollbar
+    display: none
+
+.tema6
+  ::-webkit-scrollbar
+    display: none
+
+.tema7
+  .tarjeta.color-primario
+    background-image: url(../assets/curso/temas/tema1/fondo-tarjeta.svg)
+    background-repeat: no-repeat
+    background-size: cover
+  .tarjeta.color-primario, li 
+    color: #000 !important
+  .tarjeta.color-primario, h2, p
+    color: #000 !important
+
+  .slyder-f__btn, i 
+    color: #2A34D2
+
+  @media only screen and (min-width: 430px) and (max-width: 431px)
+    .col-ipad
+      margin-right: 5rem !important
+      width: 100%
+
+  ::-webkit-scrollbar
+    display: none
+
+.tema8
+  .tarjeta--gris
+    background-color: #E3EFF9
+
+  .tarjeta.tarjeta--gris.acordion__activo
+    background-color: #FFE3C7
+
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #E3EFF9
+
+  .acordion__accion__btn--b
+    background-color: #2A34D2
+    color: #fff
+    border: none
+  
+  .tarjeta.color-acento-botones *
+    color: #000
+
+  .tarjeta--tabla
+    background-color: #FFFAC1
+
+  .tarjeta--tabla:nth-child(even)
+    background-color: #FFE3C7
+
+  .tabs-a__tab
+    background-color: #E3EFF9
+
+  .tarjeta.color-acento-botones--borde
+    background-color: #FFFAC1
+    border: solid 4px #FFFAC1
+
+  .fondo-2
+    background-color: $color-acento-contenido
+    border-radius: 1rem
+    color: #FFFF !important
+
+  .tarjeta.color-secundario
+    background-image: url(../assets/curso/temas/tema4/fondo.svg)
+    background-repeat: no-repeat
+    background-size: cover
+
+  .tarjeta--boton
+    background-image: url(../assets/curso/temas/tema4/fondo.svg)
+    background-repeat: no-repeat
+    background-size: cover
+  
+  .tarjeta--boton:hover
+    background-image: url(../assets/curso/temas/tema4/fondo-cambio.svg)
+    background-repeat: no-repeat
+    background-size: cover

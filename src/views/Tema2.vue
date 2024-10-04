@@ -51,53 +51,52 @@
                 td Genera el riesgo que el cliente aproveche su asesoría, pero decida comprar a otro vendedor. Al igual que la anterior es una técnica muy costosa por la preparación del vendedor.
     
     .row.justify-content-center.align-items-center
-      .col-md-5.col-12(data-aos="fade-right")
-        figure
-          img(src='@/assets/curso/temas/tema2/img-02.svg', alt='')
-      .col-md-7.col-12.mb-4.mb-md-0(data-aos="fade-left")
+      .col-lg-5.col-10(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema2/img-02.svg', alt='Imagen decorativa')
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-left")
         p Existen otras técnicas de amplia difusión, muy seguramente, ubicables en las especificaciones estratégicas del cuadro anterior. Estas técnicas son:
         .row.mt-2.mb-2
-          .col-md-5.col-lg-7.col-12
+          .col-lg-5
             ul.lista-ul.mb-3
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la pregunta
+                p.mb-0 De la pregunta
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la curiosidad
+                p.mb-0 De la curiosidad
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la visión
+                p.mb-0 De la visión
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De las tres “R” (reposición, reparación o reembolso)
+                p.mb-0 De las tres “R” (reposición, reparación o reembolso)
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | Del obsequio o promoción
+                p.mb-0 Del obsequio o promoción
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | Del bumerang
+                p.mb-0 Del #[i bumerán]
 
-          .col-md-5.col-lg-5.col-12
+          .col-lg-5
             ul.lista-ul.mb-3
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | Del interés especial
+                p.mb-0 Del interés especial
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la encuesta
+                p.mb-0 De la encuesta
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la recomendación o sugerencia
+                p.mb-0 De la recomendación o sugerencia
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la demostración
+                p.mb-0 De la demostración
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la mercancía a la vista
+                p.mb-0 De la mercancía a la vista
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                | De la venta personal
+                p.mb-0 De la venta personal
 
         p De entre la amplia posibilidad de técnicas de ventas, se plantean las siguientes como más representativas a revisar.
 
@@ -113,44 +112,44 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Fases para una prospección de alta rentabilidad</i>
         figure.mb-5
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-03-01.svg', alt='En la imagen se comparte un proceso de seis pasos en orden y son los siguientes: primero, asegure su plan de negocios; segundo, asegure sus fuentes de prospección; tercero, verifique el potencial del prospecto; cuarto, envíe su carta de presentación; quinto, haga su seguimiento; y por sexto y último, solicite una cita.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-03-02.svg', alt='En la imagen se comparte un proceso de seis pasos en orden y son los siguientes: primero, asegure su plan de negocios; segundo, asegure sus fuentes de prospección; tercero, verifique el potencial del prospecto; cuarto, envíe su carta de presentación; quinto, haga su seguimiento; y por sexto y último, solicite una cita.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema2/img-03-01.svg', alt='En la imagen se comparte un proceso de seis pasos en orden y son los siguientes: primero, asegure su plan de negocios; segundo, asegure sus fuentes de prospección; tercero, verifique el potencial del prospecto; cuarto, envíe su carta de presentación; quinto, haga su seguimiento; y por sexto y último, solicite una cita.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema2/img-03-02.svg', alt='En la imagen se comparte un proceso de seis pasos en orden y son los siguientes: primero, asegure su plan de negocios; segundo, asegure sus fuentes de prospección; tercero, verifique el potencial del prospecto; cuarto, envíe su carta de presentación; quinto, haga su seguimiento; y por sexto y último, solicite una cita.') 
 
         h3.mb-5
           span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i.fas.fa-tag] Para reflexionar:
 
         .col-lg-12.mb-5(data-aos="fade-down-right")
           .cajon.color-primario.p-4(style="background-color:#FFFAC1")
-            p En el ámbito empresarial, es común reconocer que la adquisición de un nuevo cliente resulta significativamente más costosa que retener a uno existente, lo que subraya la importancia de implementar una estrategia sólida que resalte las características del producto o servicio ofrecido, garantizando su continuidad y adaptando su presentación con el objetivo de fidelizar al cliente.
-            p Es esencial para el vendedor clasificar a los clientes en segmentos representativos según sus características de compra, concentrando esfuerzos en mantener su satisfacción. Una vez clasificados, resulta conveniente perfilar a los clientes para identificar otros potenciales y definir el mercado meta, basándose en un estudio de mercado, lo cual facilita la identificación de clientes alternativos a quienes ofrecer el bien o servicio. 
+            p.mb-0 En el ámbito empresarial, es común reconocer que la adquisición de un nuevo cliente resulta significativamente más costosa que retener a uno existente, lo que subraya la importancia de implementar una estrategia sólida que resalte las características del producto o servicio ofrecido, garantizando su continuidad y adaptando su presentación con el objetivo de fidelizar al cliente.
+            p.mb-0 Es esencial para el vendedor clasificar a los clientes en segmentos representativos según sus características de compra, concentrando esfuerzos en mantener su satisfacción. Una vez clasificados, resulta conveniente perfilar a los clientes para identificar otros potenciales y definir el mercado meta, basándose en un estudio de mercado, lo cual facilita la identificación de clientes alternativos a quienes ofrecer el bien o servicio. 
 
         p.mb-4(data-aos="zoom-in") Con relación a la fase de prospección se integran los siguientes elementos:
 
     SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo1")(data-aos="zoom-in-up")
 
     .row.justify-content-center.mb-5
-      .col-12.col-md-10.col-lg-10
-        p.mb-4(data-aos="zoom-in") Los recursos para definir la prospección incluyen:
-        .col-lg-10.col-12(data-aos="fade-right")
+      .col-lg-10.mb-4.mb-lg-0
+        p.mb-4(data-aos="fade-left") Los recursos para definir la prospección incluyen:
+        .col-lg-10(data-aos="fade-right")
           ul.lista-ul--color
             li 
               i.fas.fa-check
-              | Clientes que recomiendan el producto o servicio a otras empresas o personas que lo necesitan.
+              p.mb-0 Clientes que recomiendan el producto o servicio a otras empresas o personas que lo necesitan.
             li 
               i.fas.fa-check
-              | Bancos de datos disponibles en páginas accesibles, como las del Estado.
+              p.mb-0 Bancos de datos disponibles en páginas accesibles, como las del Estado.
             li 
               i.fas.fa-check
-              | Recomendaciones de personas conocidas.
+              p.mb-0 Recomendaciones de personas conocidas.
             li 
               i.fas.fa-check
-              | Asociaciones empresariales o profesionales.
+              p.mb-0 Asociaciones empresariales o profesionales.
             li
               i.fas.fa-check
-              | Revisar secciones de negocios en periódicos, revistas, o documentos publicados que permitan identificar clientes potenciales o calificados.
+              p.mb-0 Revisar secciones de negocios en periódicos, revistas, o documentos publicados que permitan identificar clientes potenciales o calificados.
             li
               i.fas.fa-check
-              | Listas propias elaboradas por el vendedor basadas en registros de empresas o información obtenida mediante estrategias personales, como ofrecer beneficios a quienes refieran posibles compradores.
+              p.mb-0 Listas propias elaboradas por el vendedor basadas en registros de empresas o información obtenida mediante estrategias personales, como ofrecer beneficios a quienes refieran posibles compradores.
 
     Separador
 
@@ -224,14 +223,14 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas boomerang")
-            p Este tipo de pregunta se utiliza cuando el cliente presenta dudas o incertidumbres. La técnica boomerang permite al vendedor transformar una objeción en una oportunidad de venta. Si el cliente expresa una preocupación, el vendedor puede responder con una pregunta que refuerce el valor del producto, como "¿Le preocupa la durabilidad del producto? Permítame mostrarle cómo nuestros materiales superan a la competencia en resistencia."
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas bumerán")
+            p Este tipo de pregunta se utiliza cuando el cliente presenta dudas o incertidumbres. La técnica #[i bumerán] permite al vendedor transformar una objeción en una oportunidad de venta. Si el cliente expresa una preocupación, el vendedor puede responder con una pregunta que refuerce el valor del producto, como "¿Le preocupa la durabilidad del producto? Permítame mostrarle cómo nuestros materiales superan a la competencia en resistencia."
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas espejo")
-            p Estas preguntas reflejan las palabras del cliente, permitiendo que se sienta escuchado y comprendido. Por ejemplo, si el cliente dice "Estoy buscando un producto que sea eficiente y económico," el vendedor podría responder con "Entonces, si le entiendo bien, está buscando un producto que le ofrezca una alta eficiencia a un costo accesible, ¿correcto?". Esta técnica es útil para confirmar la comprensión y reforzar la conexión con el cliente. 
+            p Estas preguntas reflejan las palabras del cliente, permitiendo que se sienta escuchado y comprendido. Por ejemplo, si el cliente dice "Estoy buscando un producto que sea eficiente y económico", el vendedor podría responder con "Entonces, si le entiendo bien, está buscando un producto que le ofrezca una alta eficiencia a un costo accesible, ¿correcto?". Esta técnica es útil para confirmar la comprensión y reforzar la conexión con el cliente. 
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
@@ -255,24 +254,24 @@
             figure
               img(src='@/assets/curso/temas/tema2/img-011.svg', alt='Imagen decorativa')
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10(data-aos="fade-down-right")
-        .cajon.color-secundario.p-4(style="background-color:#FFE3C7")
-          p La #[b expresión] escrita es esencial cuando el vendedor y el cliente no pueden interactuar en persona o cuando se requiere formalizar procesos y hacer seguimiento a las negociaciones. Para que la comunicación escrita sea efectiva, es crucial que el mensaje sea claro y específico. Si el tema no es comprensible desde el principio, el cliente puede desestimar la información o posponer su lectura.
+        .row.justify-content-center.mt-5.mb-4
+          .col-lg-10.col-12(data-aos="fade-down-right")
+            .cajon.color-secundario.p-4(style="background-color:#FFE3C7")
+              p.mb-0 La #[b expresión] escrita es esencial cuando el vendedor y el cliente no pueden interactuar en persona o cuando se requiere formalizar procesos y hacer seguimiento a las negociaciones. Para que la comunicación escrita sea efectiva, es crucial que el mensaje sea claro y específico. Si el tema no es comprensible desde el principio, el cliente puede desestimar la información o posponer su lectura.
 
-    .row.justify-content-center.mb-5
-      .col-12.col-md-10.col-lg-10
-        p.mb-4(data-aos="zoom-in") Una comunicación escrita bien estructurada debe:
-        .col-lg-12.col-12(data-aos="fade-right")
-          ul.lista-ul--color
-            li 
-              i.fas.fa-check
-              | #[b Definir claramente el tema:] el objetivo de la comunicación debe ser evidente desde el principio, para captar y mantener la atención del cliente.
-            li 
-              i.fas.fa-check
-              | #[b Ser concreta:] la información debe ser directa y precisa, evitando rodeos que puedan diluir el mensaje o causar confusión.
-        
-        p.mb-4(data-aos="zoom-in") La ventaja de la expresión escrita radica en la ausencia de lenguaje corporal, lo que permite que el contenido sea juzgado únicamente por su claridad y relevancia. Sin embargo, la manera en que se redacta influye directamente en la decisión del comprador, ya que es la única herramienta disponible para transmitir el valor del producto o servicio en ausencia de una interacción personal. 
+        .row.justify-content-center.mb-5
+          .col-12.col-md-10.col-lg-10
+            p.mb-4(data-aos="zoom-in") Una comunicación escrita bien estructurada debe:
+            .col-lg-12.col-12(data-aos="fade-right")
+              ul.lista-ul--color
+                li 
+                  i.fas.fa-check
+                  p.mb-0 #[b Definir claramente el tema:] el objetivo de la comunicación debe ser evidente desde el principio, para captar y mantener la atención del cliente.
+                li 
+                  i.fas.fa-check
+                  p.mb-0 #[b Ser concreta:] la información debe ser directa y precisa, evitando rodeos que puedan diluir el mensaje o causar confusión.
+            
+            p.mb-4(data-aos="zoom-in") La ventaja de la expresión escrita radica en la ausencia de lenguaje corporal, lo que permite que el contenido sea juzgado únicamente por su claridad y relevancia. Sin embargo, la manera en que se redacta influye directamente en la decisión del comprador, ya que es la única herramienta disponible para transmitir el valor del producto o servicio en ausencia de una interacción personal. 
 
     Separador
 
@@ -315,7 +314,7 @@
     .row.justify-content-center.mb-3(data-aos="fade-down")
       .col-12.col-lg-10.mb-4
         .cajon.color-primario.p-4(style="background-color:#FFFAC1")
-          p Cada una de estas fases es crítica para asegurar que la venta no solo se concrete, sino que también se construya una relación duradera y satisfactoria con el cliente.
+          p.mb-0 Cada una de estas fases es crítica para asegurar que la venta no solo se concrete, sino que también se construya una relación duradera y satisfactoria con el cliente.
 
 
 

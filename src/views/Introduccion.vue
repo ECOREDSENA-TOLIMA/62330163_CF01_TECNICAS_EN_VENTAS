@@ -10,7 +10,7 @@
       h1 Introducción
 
     p Desde el origen del hombre las ventas han jugado un papel importante, siendo su referente inicial el trueque de productos, medio que se convierte en forma de negociación, por tal motivo, en una acción contable como venta; para el caso del dinero, su cambio genera la recepción de un producto de otra referencia, por lo que se puede decir que hay negociación o transacción comercial.
-    p.mb-5(data-aos="zoom-in") Para el proceso de materialización de la venta, es importante tener en cuenta la comunicación asertiva, tanto expresiva como corporal, referenciada ésta, desde las particulares características de cada cliente y del producto o servicio a ofertar; es allí, donde la competencia y habilidad del vendedor juega un papel importante dentro del proceso, dado que éste debe contar con la capacidad actitudinal necesaria, para adaptar la técnica de negociación al sinnúmero de posibilidades que el entorno y realidad situacional brinda.
+    p.mb-5(data-aos="zoom-in") Para el proceso de materialización de la venta, es importante tener en cuenta la comunicación asertiva, tanto expresiva como corporal, referenciada esta, desde las particulares características de cada cliente y del producto o servicio a ofertar; es allí, donde la competencia y habilidad del vendedor juega un papel importante dentro del proceso, dado que este debe contar con la capacidad actitudinal necesaria, para adaptar la técnica de negociación al sinnúmero de posibilidades que el entorno y realidad situacional brinda.
     
     figure.mb-5(data-aos="zoom-in")
       .video

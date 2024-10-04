@@ -63,113 +63,84 @@
       
     p.mb-5(data-aos="zoom-in") #[b Los objetivos] comerciales deben primar en cada una de las modalidades de las ventas y esos objetivos están trabajados según el momento y el producto que se está prospectando, los tipos de objetivos más generales son los siguientes: 
 
-    .row.justify-content-center.mb-3(data-aos="zoom-in")
-      .col-lg-3.col-12.mb-3.d-lg-flex.d-none
+    .row.justify-content-center.mb-3
+      .col-lg-4.col-12.mb-3.d-lg-flex.d-none
         figure
           img(src='@/assets/curso/temas/tema8/img-02.svg', alt='Imagen decorativa')
-      .col-lg-9.col-12.mb-3
-        TabsA.color-acento-botones.mb-3
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Respecto al producto ofertado")
-            p El vendedor debe conocer perfectamente el producto: características, ventajas, precio y condiciones.
+      .col-lg-8.col-12.mb-3
+        LineaTiempoD.color-secundario.linea-tiempo-edit.mb-4(data-aos="zoom-in-down")
+          p.text-small(numero="1" titulo="Respecto al producto ofertado") El vendedor debe conocer perfectamente el producto: características, ventajas, precio y condiciones.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Respecto al mercado")
-            p El vendedor aparte de indicarle al cliente las bondades del producto, debe estar en capacidad de realizar la demostración en caso que el producto o el cliente así lo requieran.
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
+          p.text-small(numero="2" titulo="Respecto al mercado") El vendedor aparte de indicarle al cliente las bondades del producto, debe estar en capacidad de realizar la demostración en caso que el producto o el cliente así lo requieran.
           
-          .tarjeta.color-acento-botones--borde.p-4(titulo="En caso de reclamaciones")
-            p El vendedor es quien debe hacer todo el proceso de trámite para las mismas, manteniendo el servicio constante a los consumidores.
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
+          p.text-small(numero="3" titulo="En caso de reclamaciones") El vendedor es quien debe hacer todo el proceso de trámite para las mismas, manteniendo el servicio constante a los consumidores.
+          
+          p.text-small(numero="4" titulo="Respecto a los competidores") El vendedor debe tener el conocimiento de la competencia, e identificar las diferencias entre productos que se ofertan de similares o iguales características.
+          
+          p.text-small(numero="5" titulo="Respecto a la empresa") El vendedor tiene unas metas de ventas que debe cumplir en tiempos establecidos, debiendo fijar una estrategia que le permita conquistar clientes para los diferentes productos o servicios que hacen parte del portafolio de la organización. 
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Respecto a los competidores")
-            p El vendedor debe tener el conocimiento de la competencia, e identificar las diferencias entre productos que se ofertan de similares o iguales características.
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
-
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Respecto a la empresa")
-            p El vendedor tiene unas metas de ventas que debe cumplir en tiempos establecidos, debiendo fijar una estrategia que le permita conquistar clientes para los diferentes productos o servicios que hacen parte del portafolio de la organización.
-          //- .tarjeta debe ir acompañado de una de una de estas clases => 
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
-
-    p(data-aos="zoom-in") Desde hace un tiempo se habla de <b><i>E-commerce</i></b> también conocido como comercio electrónico, negocios por internet o negocios online. Consiste en la adquisición de bienes o servicios a través de medios electrónicos.
-    p.mb-5(data-aos="zoom-in") Con la evolución de la tecnología se hace cada vez más representativo dentro del mercado, pero para las empresas que desean ofertar a través de la web, implica determinar exactamente cuáles son los productos a ofrecer, su entrega, la forma de pago y el servicio post venta (Chaffey, 2022).
+    p(data-aos="zoom-in") Desde hace un tiempo se habla de <b><i>E-commerce</i></b> también conocido como comercio electrónico, negocios por internet o negocios <em>online.</em> Consiste en la adquisición de bienes o servicios a través de medios electrónicos.
+    p.mb-5(data-aos="zoom-in") Con la evolución de la tecnología se hace cada vez más representativo dentro del mercado, pero para las empresas que desean ofertar a través de la <em>web,</em> implica determinar exactamente cuáles son los productos a ofrecer, su entrega, la forma de pago y el servicio post venta (Chaffey, 2022).
 
     h3.mb-5
       span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i.fas.fa-tag] Proceso para iniciar #[i E-commerce]
     
-    .row.justify-content-center.mb-3(data-aos="fade-down")
-      .col-12.col-lg-10.mb-4
-        PasosA.color-acento-contenido.mb-5(tipo="n")
-          .row(data-aos="zoom-in-down")
-            .col-md-6.mb-4.mb-md-0
-              h3 Definición del producto a vender
-              p Se puede empezar por aquel producto que le genere mayor utilidad y el nicho de mercado al cual va dirigido.
-            
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/tema8/img-03.png', alt='Texto que describa la imagen')
+    PasosA.color-acento-contenido.mb-5(tipo="n")
+      .row.justify-content-center.align-items-center
+        .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
+          h3 Definición del producto a vender
+          p.mb-0 Se puede empezar por aquel producto que le genere mayor utilidad y el nicho de mercado al cual va dirigido.
+        
+        .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema8/img-03.png', alt='Texto que describa la imagen')
 
-          .row(data-aos="fade-down")
-            .col-md-6.mb-4.mb-md-0
-              figure
-                img(src='@/assets/curso/temas/tema8/img-04.png', alt='Texto que describa la imagen')
+      .row.justify-content-center.align-items-center
+        .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema8/img-04.png', alt='Texto que describa la imagen')
 
-            .col-md-6
-              h3 Identificar proveedor de diseño de la web
-              p Conocer la instalación y manejo de software especializado para efectuar transacciones en línea de forma segura, tanto para la empresa como para los clientes. Muy necesario el acompañamiento durante el montaje e implementación de la tienda virtual.
-          
-          .row(data-aos="zoom-in-down")
-            .col-md-6.mb-4.mb-md-0
-              h3 Diseño de la página de manera atractiva para los consumidores
-              p Que tengan un espacio disponible para el contacto con el cliente.
-            
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/tema8/img-05.png', alt='Texto que describa la imagen')
+        .col-lg-6(data-aos="fade-left")
+          h3 Identificar proveedor de diseño de la <em>web</em>
+          p.mb-0 Conocer la instalación y manejo de <em>software</em> especializado para efectuar transacciones en línea de forma segura, tanto para la empresa como para los clientes. Muy necesario el acompañamiento durante el montaje e implementación de la tienda virtual.
+      
+      .row.justify-content-center.align-items-center(data-aos="fade-right")
+        .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
+          h3 Diseño de la página de manera atractiva para los consumidores
+          p.mb-0 Que tengan un espacio disponible para el contacto con el cliente.
+        
+        .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema8/img-05.png', alt='Texto que describa la imagen')
 
-          .row(data-aos="fade-down")
-            .col-md-6.mb-4.mb-md-0
-              figure
-                img(src='@/assets/curso/temas/tema8/img-06.png', alt='Texto que describa la imagen')
+      .row.justify-content-center.align-items-center
+        .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema8/img-06.png', alt='Texto que describa la imagen')
 
-            .col-md-6
-              h3 Asegurar los productos
-              p Es decir, que exista un inventario de los productos que se ofertan, con el fin de evitar el surgimiento de desconfianza por parte del consumidor que desee adquirir el producto y no lo encuentre disponible.
-          
-          .row(data-aos="zoom-in-down")
-            .col-md-6.mb-4.mb-md-0
-              h3 Logística para la entrega
-              p Se debe tener una empresa que ofrezca el servicio con oficinas en todo el mundo; recordando que este tipo de comercio permite encontrar clientes en cualquier lugar del mundo.
+        .col-lg-6(data-aos="fade-left")
+          h3 Asegurar los productos
+          p.mb-0 Es decir, que exista un inventario de los productos que se ofertan, con el fin de evitar el surgimiento de desconfianza por parte del consumidor que desee adquirir el producto y no lo encuentre disponible.
+      
+      .row.justify-content-center.align-items-center(data-aos="fade-right")
+        .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
+          h3 Logística para la entrega
+          p.mb-0 Se debe tener una empresa que ofrezca el servicio con oficinas en todo el mundo; recordando que este tipo de comercio permite encontrar clientes en cualquier lugar del mundo.
 
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/tema8/img-07.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema8/img-07.png', alt='Texto que describa la imagen')
 
-          .row(data-aos="fade-down")
-            .col-md-6.mb-4.mb-md-0
-              figure
-                img(src='@/assets/curso/temas/tema8/img-08.png', alt='Texto que describa la imagen')
+      .row.justify-content-center.align-items-center
+        .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
+            img(src='@/assets/curso/temas/tema8/img-08.png', alt='Texto que describa la imagen')
 
-            .col-md-6
-              h3 Plan de cobros
-              p Existen varias alternativas, como son los depósitos en cuentas, giros y pago con tarjeta de crédito; sin embargo, esta acción puede generar inconvenientes, puesto que la información puede quedar disponible, y el consumidor puede pensar que la utilizarán para descargar pagos adicionales.
+        .col-lg-6(data-aos="fade-left")
+          h3 Plan de cobros
+          p.mb-0 Existen varias alternativas, como son los depósitos en cuentas, giros y pago con tarjeta de crédito; sin embargo, esta acción puede generar inconvenientes, puesto que la información puede quedar disponible, y el consumidor puede pensar que la utilizarán para descargar pagos adicionales.
 
-          .row(data-aos="zoom-in-down")
-            .col-md-6.mb-4.mb-md-0
-              h3 Servicio al cliente
-              p A pesar de ser una negociación virtual, es importante fidelizar los clientes enviándoles información sobre nuevos productos y ofertas especiales de su interés. 
+      .row.justify-content-center.align-items-center(data-aos="fade-right")
+        .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
+          h3 Servicio al cliente
+          p.mb-0 A pesar de ser una negociación virtual, es importante fidelizar los clientes enviándoles información sobre nuevos productos y ofertas especiales de su interés. 
 
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/tema8/img-09.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema8/img-09.png', alt='Texto que describa la imagen')
 
     p.mb-5(data-aos="zoom-in") Las categorías del #[i E-commerce] se pueden clasificar en tres y son las siguientes:
 
@@ -215,29 +186,29 @@
 
     .row.justify-content-center.mb-4
       .col-12.col-lg-10.mb-4(data-aos="fade-up")
-        p.mb-4(data-aos="zoom-in") Las ventajas que apalancan el crecimiento exponencial del E-commerce son las siguientes:
+        p.mb-4(data-aos="zoom-in") Las ventajas que apalancan el crecimiento exponencial del #[i E-commerce] son las siguientes:
         
         .cajon.color-primario.p-4.mb-4(style="background-color:#FFFAC1")
           ul.lista-ul.mb-3
             li(data-aos="fade-down")
               i.fas.fa-check(style="color: #AC0606")
-              | #[b Para el usuario:] adquiere el producto de forma rápida minimizando costos, consigue precios favorables e información del producto de manera oportuna e inmediata.
+              p.mb-0 #[b Para el usuario:] adquiere el producto de forma rápida minimizando costos, consigue precios favorables e información del producto de manera oportuna e inmediata.
 
             li(data-aos="fade-down")
               i.fas.fa-check(style="color: #AC0606")
-              | #[b Para la empresa:] disminuye los costos de la fuerza de venta, minimiza el costo de tener distribuidores o mayoristas, elimina la posibilidad de robo de la mercancía, aumenta las ganancias, menor costo de inventario, acceso a mercados globales permitiendo posicionar el producto en cualquier lugar del mundo; el tiempo no es problema, pues las páginas están habilitadas 24 horas todos los días. 
+              p.mb-0 #[b Para la empresa:] disminuye los costos de la fuerza de venta, minimiza el costo de tener distribuidores o mayoristas, elimina la posibilidad de robo de la mercancía, aumenta las ganancias, menor costo de inventario, acceso a mercados globales permitiendo posicionar el producto en cualquier lugar del mundo; el tiempo no es problema, pues las páginas están habilitadas 24 horas todos los días. 
         
-        p.mb-4(data-aos="zoom-in") Como todo negocio lo sabe no solo se encuentra ventajas en las soluciones que da el E-commerce es por eso que se deben tener en cuenta las siguientes desventajas:
+        p.mb-4(data-aos="zoom-in") Como todo negocio lo sabe no solo se encuentra ventajas en las soluciones que da el #[i E-commerce] es por eso que se deben tener en cuenta las siguientes desventajas:
     
         .cajon.color-secundario.p-4.mb-3(style="background-color:#FFE3C7")
           ul.lista-ul.mb-3
             li(data-aos="fade-down")
               i.fas.fa-check(style="color: #AC0606")
-              | #[b Para el usuario:] ninguna interrelación con el vendedor, dificultad para reclamaciones o hacer válida la garantía, no hay conocimiento físico del producto.
+              p.mb-0 #[b Para el usuario:] ninguna interrelación con el vendedor, dificultad para reclamaciones o hacer válida la garantía, no hay conocimiento físico del producto.
 
             li(data-aos="fade-down")
               i.fas.fa-check(style="color: #AC0606")
-              | #[b Para las empresas:] poca comunicación con el consumidor, penetración por hackers, si el consumidor no tiene una buena experiencia de compra, fácilmente incide para que otras personas no adquieran productos por ese medio.
+              p.mb-0 #[b Para las empresas:] poca comunicación con el consumidor, penetración por #[i hackers,] si el consumidor no tiene una buena experiencia de compra, fácilmente incide para que otras personas no adquieran productos por ese medio.
 
     p.mb-5(data-aos="zoom-in") Otro tipo de trabajo en ventas es el conocido como #[b ventas por catálogo] y trabaja en ofrecer diversidad de productos o referencias y modelos de los mismos gracias a un contenido editorial como revistas físicas o digitales. Su venta es inmediata, utiliza la distribución de tal manera que el producto llega a donde se encuentra el consumidor (casa, trabajo). Las características del modelo ventas por catálogo son las siguientes: 
 
@@ -282,7 +253,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | Generan empleos indirectos a las personas que se afilian a las empresas, éstas les envía los catálogos, y las personas se encargan de realizar el mercadeo con horarios totalmente flexibles.
+            | Generan empleos indirectos a las personas que se afilian a las empresas, estas les envía los catálogos, y las personas se encargan de realizar el mercadeo con horarios totalmente flexibles.
           
           li 
             .lista-ol--cuadro__vineta
@@ -325,7 +296,7 @@
         ul.lista-ul.mb-3
           li(data-aos="fade-down")
             i.fas.fa-check(style="color: #AC0606")
-            | Se deben enviar correos claros y con información conveniente, de tal manera que ésta no sea malinterpretada y el cliente decida no leerlo.
+            | Se deben enviar correos claros y con información conveniente, de tal manera que esta no sea malinterpretada y el cliente decida no leerlo.
 
           li(data-aos="fade-down")
             i.fas.fa-check(style="color: #AC0606")

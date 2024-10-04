@@ -11,25 +11,29 @@
       .col-lg-5.col-12.mb-3(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema3/img-01.svg', alt='')
-      .col-lg-7.col-12.mb-3(data-aos="fade-left")
+      .col-lg-7.mb-3(data-aos="fade-left")
         p En cualquier proceso de transmisión de información, especialmente en el ámbito de la negociación, la manera en que se realiza la comunicación, tanto verbal como no verbal, es crucial para el éxito. La comunicación efectiva permite al vendedor alcanzar su objetivo: cerrar la venta.
         p La comunicación #[b verbal] implica el uso de palabras para transmitir el mensaje. Para un vendedor, dominar esta forma de comunicación es esencial. Los elementos clave a tener en cuenta incluyen: 
         ul.lista-ul.mb-3
           li(data-aos="fade-down")
             i.fas.fa-check(style="color: #AC0606")
-            | #[b Tono:] refleja emociones y actitudes, y puede influir en la percepción del mensaje.
+            p.mb-0 #[b Tono:] refleja emociones y actitudes, y puede influir en la percepción del mensaje.
+          
           li(data-aos="fade-down")
             i.fas.fa-check(style="color: #AC0606")
-            | #[b Pronunciación:] es importante articular claramente para evitar malentendidos.
+            p.mb-0 #[b Pronunciación:] es importante articular claramente para evitar malentendidos.
+          
           li(data-aos="fade-down")
             i.fas.fa-check(style="color: #AC0606")
-            | #[b Silencios:] pueden enfatizar ideas o permitir al cliente procesar la información.
+            p.mb-0 #[b Silencios:] pueden enfatizar ideas o permitir al cliente procesar la información.
+          
           li(data-aos="fade-down")
             i.fas.fa-check(style="color: #AC0606")
-            | #[b Volumen:] debe ser adecuado para la situación, evitando ser demasiado bajo o alto.
+            p.mb-0 #[b Volumen:] debe ser adecuado para la situación, evitando ser demasiado bajo o alto.
+          
           li(data-aos="fade-down")
             i.fas.fa-check(style="color: #AC0606")
-            | #[b Rapidez al hablar:] la velocidad puede indicar el estado de ánimo y debe ser controlada para asegurar claridad. 
+            p.mb-0 #[b Rapidez al hablar:] la velocidad puede indicar el estado de ánimo y debe ser controlada para asegurar claridad. 
 
     p(data-aos="zoom-in") Es esencial que el lenguaje utilizado sea respetuoso, sincero y concreto para evitar malentendidos. Sin embargo, hay varias #[b barreras] que pueden dificultar la comunicación efectiva, como barreras ambientales (ruido, distracciones), verbales (hablar demasiado rápido o de manera confusa), interpersonales (malas percepciones), semánticas (uso incorrecto de términos), físicas (iluminación, selección de medios), fisiológicas (problemas de audición o habla), psicológicas (rechazo o agrado entre emisor y receptor), y administrativas (información confusa o excesiva).
     p.mb-5(data-aos="zoom-in") La comunicación no #[b verbal] se percibe a través de los sentidos, principalmente la vista y el tacto. Este tipo de comunicación incluye varios elementos:
@@ -100,10 +104,9 @@
       .col-lg-10(data-aos="zoom-in-up")
         .cajon.color-primario.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-2.mb-3
-              figure  
-                img(src='@/assets/curso/temas/tema3/icono.svg', alt='Imagen decorativa')
-            .col-lg-10
+            .col-lg-3.col-4
+              img(src='@/assets/curso/temas/tema3/icono.svg', alt='Imagen decorativa')
+            .col-lg-9
               p Además, la #[b expresión facial] es una fuente rica de información en la comunicación no verbal, con la mirada siendo especialmente importante para captar la atención del interlocutor. 
 
     p En el contexto de una negociación, la combinación de técnicas de comunicación verbal y no verbal juega un papel decisivo en la percepción del cliente y en el éxito de la interacción. El vendedor debe estar consciente de cómo su lenguaje corporal, tono de voz, y las palabras que elige, pueden influir en la percepción del cliente, ya sea generando confianza o levantando barreras.
@@ -114,8 +117,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>La comunicación</i>
         figure.mb-5
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema3/img-05-01.svg', alt='La imagen comparte una explicación de las formas de la comunicación que puede ser verbal o no verbal, la verbal puede ser oral o escrita y la no verbal pueden ser los gestos, las imágenes y los sonidos.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema3/img-05-02.svg', alt='La imagen comparte una explicación de las formas de la comunicación que puede ser verbal o no verbal, la verbal puede ser oral o escrita y la no verbal pueden ser los gestos, las imágenes y los sonidos.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema3/img-05-01.svg', alt='La imagen comparte una explicación de las formas de la comunicación que puede ser verbal o no verbal, la verbal puede ser oral o escrita y la no verbal pueden ser los gestos, las imágenes y los sonidos.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema3/img-05-02.svg', alt='La imagen comparte una explicación de las formas de la comunicación que puede ser verbal o no verbal, la verbal puede ser oral o escrita y la no verbal pueden ser los gestos, las imágenes y los sonidos.') 
 
     Separador
 
@@ -125,8 +128,26 @@
     p.mb-5(data-aos="zoom-in") La negociación se puede entender desde diversas perspectivas, y algunos conceptos clave son los siguientes:
     
     .row.mb-5.justify-content-center
-      .col-10(data-aos="fade-right")
-        .bloque-texto-b.color-acento-contenido.p-4
+      .col-lg-5.mb-lg-0.mb-4
+        .bloque-texto-b.color-acento-contenido.p-4.mb-4
+          .bloque-texto-b__texto
+            i.fas.fa-quote-left
+            p.mb-0 El proceso que les ofrece a los contendientes la oportunidad de intercambiar promesas y contraer compromisos formales, tratando de resolver sus diferencias.
+            i.fas.fa-quote-right
+          .bloque-texto-f__autor.mb-3
+            h5.text-end.mb-0 - Colosi & Berkerley, 2006
+
+      .col-lg-5.mb-lg-0.mb-4
+        .bloque-texto-b.color-acento-contenido.p-4.mb-4
+          .bloque-texto-b__texto
+            i.fas.fa-quote-left
+            p.mb-0 La negociación es la acción consistente en conducir una negociación, es decir, establecer un acuerdo entre dos partes con intereses diferentes.
+            i.fas.fa-quote-right
+          .bloque-texto-f__autor.mb-3
+            h5.text-end.mb-0 - Kozicki, 2012
+
+      .col-lg-10(data-aos="fade-right")
+        .bloque-texto-b.color-acento-contenido.p-4.mb-4
           <hr style="border:15px; background-color:#AC0606">
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -135,7 +156,6 @@
           .bloque-texto-f__autor.mb-3
             h5.text-end.mb-0 - Sabra, 1999
     
-      .col-10(data-aos="fade-right")
         .bloque-texto-b.color-acento-contenido.p-4
           <hr style="border:15px; background-color:#AC0606">
           .bloque-texto-b__texto

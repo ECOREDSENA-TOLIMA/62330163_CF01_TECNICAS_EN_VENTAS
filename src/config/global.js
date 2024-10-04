@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Ventas comunicación y negociación',
+    componenteFormativo: 'Ventas, comunicación y negociación',
     descripcionCurso:
       'El presente componente formativo trabaja desde la venta entendida como un proceso que requiere comunicación y amplio aspecto de negociación teniendo en cuenta que se trabaja con clientes que pueden llegar a requerir un tratamiento especial. De todo eso trata el presente componente formativo que busca instruir en las técnicas requeridas para hacer una venta.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),

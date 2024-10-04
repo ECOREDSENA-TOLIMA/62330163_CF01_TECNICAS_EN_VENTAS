@@ -9,15 +9,12 @@
 
     p.mb-5(data-aos="zoom-in") Las ventas, en su esencia, representan mucho más que una simple transacción comercial. Se trata de un proceso dinámico y estratégico que involucra la identificación de necesidades, la creación de valor, y la construcción de relaciones a largo plazo. En el contexto moderno, vender no es solo ofrecer un producto o servicio, sino también comunicar de manera efectiva cómo este satisface las necesidades y deseos del cliente. Esta comunicación debe ser clara, persuasiva y, sobre todo, adaptada a las particularidades de cada cliente, lo que exige un profundo conocimiento del mercado, del producto, y de las habilidades de negociación.
 
-    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in")
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center 
-          .col-lg-7.col-12
-            p El éxito en ventas radica en la capacidad de comprender al cliente y de construir una relación de confianza. El vendedor debe actuar como un consultor, guiando al cliente a través del proceso de compra y ayudándolo a tomar decisiones informadas. En un entorno competitivo, donde las opciones son abundantes, la capacidad de diferenciarse a través del servicio al cliente y la personalización de la oferta es fundamental. Por lo tanto, las ventas modernas requieren una combinación de habilidades técnicas, emocionales y de comunicación, todas ellas orientadas a ofrecer soluciones que no solo satisfagan necesidades inmediatas, sino que también fortalezcan la lealtad del cliente a largo plazo.
-            p El concepto de ventas puede ser definido de muchas formas gracias a los autores que trabajan el concepto, las definiciones más representativas para el trabajo que se hace en el presente contenido académico son las siguientes: 
-          .col-lg-5.col-8
-            figure
-              img(src='@/assets/curso/temas/tema1/img-01.svg', alt='Imagen decorativa')
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
+      .col-lg-6.order-lg-1.order-2 
+        p.mb-0 El éxito en ventas radica en la capacidad de comprender al cliente y de construir una relación de confianza. El vendedor debe actuar como un consultor, guiando al cliente a través del proceso de compra y ayudándolo a tomar decisiones informadas. En un entorno competitivo, donde las opciones son abundantes, la capacidad de diferenciarse a través del servicio al cliente y la personalización de la oferta es fundamental. Por lo tanto, las ventas modernas requieren una combinación de habilidades técnicas, emocionales y de comunicación, todas ellas orientadas a ofrecer soluciones que no solo satisfagan necesidades inmediatas, sino que también fortalezcan la lealtad del cliente a largo plazo.
+        p.mb-0 El concepto de ventas puede ser definido de muchas formas gracias a los autores que trabajan el concepto, las definiciones más representativas para el trabajo que se hace en el presente contenido académico son las siguientes: 
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+        img(src='@/assets/curso/temas/tema1/img-01.svg', alt='Imagen decorativa')
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-up")
       .tarjeta.color-primario.p-4.col-ipad
@@ -46,7 +43,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema1/icono-04.svg' alt='AvatarTop')
         h3.text-center  Romero (1997) 
-        p En su libro “Marketing”, define la venta de la siguiente manera: “cesión de una mercancía mediante un precio convenido”. 
+        p En su libro #[i “Marketing”,] define la venta de la siguiente manera: “cesión de una mercancía mediante un precio convenido”. 
 
     p.mb-5(data-aos="zoom-in") A manera de conclusión se puede resumir la definición de venta, como una #[b transacción comercial que adquiere un bien o servicio a cambio de un pago.]
 
@@ -90,7 +87,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-11(data-aos="fade-down-right")
         .cajon.color-primario.p-4(style="background-color:#FFFAC1")
-          p El método de venta depende en gran medida de la interrelación que se logre entre vendedor y comprador, de la correcta identificación de necesidades y de la satisfacción de esos requerimientos.
+          p.mb-0 El método de venta depende en gran medida de la interrelación que se logre entre vendedor y comprador, de la correcta identificación de necesidades y de la satisfacción de esos requerimientos.
 
     Separador
 
@@ -100,53 +97,49 @@
     p.mb-5(data-aos="zoom-in") Los sistemas de ventas son estructuras organizativas que las empresas utilizan para gestionar y optimizar sus esfuerzos de ventas, asegurando una cobertura eficiente del mercado y la maximización del rendimiento de sus equipos de ventas. Estos sistemas permiten a las empresas definir y asignar responsabilidades específicas a sus vendedores, así como segmentar el mercado de acuerdo con diferentes criterios, tales como áreas geográficas, productos, o tipos de clientes. La correcta implementación de un sistema de ventas facilita no solo la planificación y el control de las actividades comerciales, sino también la capacidad de la empresa para adaptarse a las demandas cambiantes del mercado. Los enfoques principales que se pueden tomar a la hora de hacer el planteamiento de un sistema de ventas son los siguientes:
 
     TabsC.color-acento-botones.mt-5.mb-5.color_img-tab.bg_1(data-aos="fade-left")
-      .py-4.py-md-4(titulo="Áreas geográficas o territorio")
-        .row
-          .col-md-5
-            figure
-              img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-03.png', alt='Texto que describa la imagen')
+      .p-4(titulo="Áreas geográficas o territorio")
+        .row.justify-content-center
+          .col-lg-5.col-10.mb-lg-0.mb-4
+            img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-03.png', alt='Texto que describa la imagen')
               
-          .col-md-7.mb-4.mb-md-0
-            h3 Por áreas geográficas o territorio:
-            p Este sistema de ventas se basa en la zonificación del mercado en sectores geográficos específicos donde la empresa desea posicionar su producto o servicio. A cada vendedor se le asigna una zona de trabajo definida, lo que le permite concentrarse en un área específica y optimizar sus esfuerzos de ventas. La zonificación requiere considerar aspectos clave como la cantidad de clientes reales y potenciales, la frecuencia de visitas necesarias, los sistemas de transporte disponibles, la demanda del producto, la presencia de la competencia, y las características del equipo de ventas.
-            p.mb-5 Este enfoque genera múltiples beneficios para la empresa, los vendedores y los clientes. Para la empresa, permite medir la rentabilidad en cada zona, asignar responsabilidades claras a los vendedores, y lograr una mayor cobertura del mercado. Para los vendedores, facilita un mayor acercamiento a los clientes, mejora las oportunidades de venta, y permite la planificación estratégica del trabajo. Para los clientes, se traduce en un mejor servicio, gracias a la proximidad con el vendedor, y una reducción en el tiempo de respuesta y los costos de inventario.
+          .col-lg-7
+            h3 Por áreas geográficas o territorio
+            p.mb-0 Este sistema de ventas se basa en la zonificación del mercado en sectores geográficos específicos donde la empresa desea posicionar su producto o servicio. A cada vendedor se le asigna una zona de trabajo definida, lo que le permite concentrarse en un área específica y optimizar sus esfuerzos de ventas. La zonificación requiere considerar aspectos clave como la cantidad de clientes reales y potenciales, la frecuencia de visitas necesarias, los sistemas de transporte disponibles, la demanda del producto, la presencia de la competencia, y las características del equipo de ventas.
+            p.mb-0 Este enfoque genera múltiples beneficios para la empresa, los vendedores y los clientes. Para la empresa, permite medir la rentabilidad en cada zona, asignar responsabilidades claras a los vendedores, y lograr una mayor cobertura del mercado. Para los vendedores, facilita un mayor acercamiento a los clientes, mejora las oportunidades de venta, y permite la planificación estratégica del trabajo. Para los clientes, se traduce en un mejor servicio, gracias a la proximidad con el vendedor, y una reducción en el tiempo de respuesta y los costos de inventario.
 
-      .py-4.py-md-4(titulo="Productos")
-        .row
-          .col-md-5
-            figure
-              img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-04.png', alt='Texto que describa la imagen')
+      .p-4(titulo="Productos")
+        .row.justify-content-center
+          .col-lg-5.col-10.mb-lg-0.mb-4
+            img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-04.png', alt='Texto que describa la imagen')
 
-          .col-md-7.mb-4.mb-md-0
-            h3 Por productos:
-            p El sistema de ventas por productos se organiza en función de las características específicas de los productos que la empresa ofrece. En este caso, cada vendedor debe tener un conocimiento profundo de los aspectos técnicos de los productos, lo que puede resultar en mayores costos debido al tiempo invertido en asesorías y desplazamientos. Sin embargo, este enfoque puede redundar en un aumento de las ventas, ya que permite una atención más especializada y una mayor satisfacción del cliente.
-            p.mb-5 Este sistema es particularmente útil para empresas que cuentan con una amplia gama de productos, ya que permite dividir el mercado según las características del producto o el segmento objetivo. De este modo, se asignan equipos de vendedores especializados, entrenados específicamente para cada tipo de producto, lo que asegura un enfoque más preciso y eficiente en la gestión de las ventas.
+          .col-lg-7
+            h3 Por productos
+            p.mb-0 El sistema de ventas por productos se organiza en función de las características específicas de los productos que la empresa ofrece. En este caso, cada vendedor debe tener un conocimiento profundo de los aspectos técnicos de los productos, lo que puede resultar en mayores costos debido al tiempo invertido en asesorías y desplazamientos. Sin embargo, este enfoque puede redundar en un aumento de las ventas, ya que permite una atención más especializada y una mayor satisfacción del cliente.
+            p.mb-0 Este sistema es particularmente útil para empresas que cuentan con una amplia gama de productos, ya que permite dividir el mercado según las características del producto o el segmento objetivo. De este modo, se asignan equipos de vendedores especializados, entrenados específicamente para cada tipo de producto, lo que asegura un enfoque más preciso y eficiente en la gestión de las ventas.
 
-      .py-4.py-md-4(titulo="Clientes")
-        .row
-          .col-md-5
-            figure
-              img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-05.png', alt='Texto que describa la imagen')
+      .p-4(titulo="Clientes")
+        .row.justify-content-center
+          .col-lg-5.col-10.mb-lg-0.mb-4
+            img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-05.png', alt='Texto que describa la imagen')
 
-          .col-md-7.mb-4.mb-md-0
-            h3 Por clientes:
-            p El sistema de ventas por clientes se enfoca en organizar a los clientes en grupos con características comunes, como el volumen de compra, la forma de distribución, y la frecuencia de entrega. Esta segmentación permite a las empresas asignar equipos de ventas especializados a cada segmento, fomentando relaciones más estables y duraderas con los clientes.
-            p.mb-5 La clasificación de clientes puede incluir categorías como institucionales, mayoristas, grandes superficies, detallistas, sector público, y sector privado. La principal ventaja de este sistema es el profundo conocimiento que se adquiere de las necesidades de cada tipo de cliente, lo que facilita la creación de estrategias de fidelización y mejora la efectividad de las ventas.
+          .col-lg-7
+            h3 Por clientes
+            p.mb-0 El sistema de ventas por clientes se enfoca en organizar a los clientes en grupos con características comunes, como el volumen de compra, la forma de distribución, y la frecuencia de entrega. Esta segmentación permite a las empresas asignar equipos de ventas especializados a cada segmento, fomentando relaciones más estables y duraderas con los clientes.
+            p.mb-0 La clasificación de clientes puede incluir categorías como institucionales, mayoristas, grandes superficies, detallistas, sector público, y sector privado. La principal ventaja de este sistema es el profundo conocimiento que se adquiere de las necesidades de cada tipo de cliente, lo que facilita la creación de estrategias de fidelización y mejora la efectividad de las ventas.
 
-      .py-4.py-md-4(titulo="Mixtas")
-        .row
-          .col-md-5
-            figure
-              img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-06.png', alt='Texto que describa la imagen')
+      .p-4(titulo="Mixtas")
+        .row.justify-content-center
+          .col-lg-5.col-10.mb-lg-0.mb-4
+            img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-06.png', alt='Texto que describa la imagen')
 
-          .col-md-7.mb-4.mb-md-0
-            h3 Mixtas:
-            p El sistema de ventas mixto es una combinación de dos o más de los sistemas anteriormente mencionados. Este enfoque es ampliamente utilizado en el entorno dinámico del mercado actual, ya que permite a las empresas aprovechar las ventajas de múltiples sistemas simultáneamente. La clave del éxito en este sistema radica en contar con un equipo de ventas bien entrenado, tanto en sus funciones específicas como en el conocimiento del producto o servicio que ofrecen. Al combinar estrategias de ventas basadas en la geografía, el producto y el cliente, las empresas pueden aumentar su alcance y efectividad en el mercado. 
+          .col-lg-7
+            h3 Mixtas
+            p.mb-0 El sistema de ventas mixto es una combinación de dos o más de los sistemas anteriormente mencionados. Este enfoque es ampliamente utilizado en el entorno dinámico del mercado actual, ya que permite a las empresas aprovechar las ventajas de múltiples sistemas simultáneamente. La clave del éxito en este sistema radica en contar con un equipo de ventas bien entrenado, tanto en sus funciones específicas como en el conocimiento del producto o servicio que ofrecen. Al combinar estrategias de ventas basadas en la geografía, el producto y el cliente, las empresas pueden aumentar su alcance y efectividad en el mercado. 
 
     p.mb-5(data-aos="zoom-in") Los enfoques del sistema de ventas son de gran utilidad para el empresario, el colaborador y el mercado, a continuación, se muestra un ejemplo del uso de los enfoques:
 
     .row.justify-content-center.mt-5
-      .col-lg-12.col-12(data-aos="fade-up")
+      .col-lg-12.col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
             h5 Tabla 1.
             span <em>Enfoques del sistema de ventas</em>

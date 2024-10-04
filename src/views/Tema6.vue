@@ -23,9 +23,9 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-12.col-lg-10.mb-4
         .cajon.color-primario.p-4(style="background-color:#FFFAC1")
-          p Cuando se piensa en llegar a la decisión de adquirir algún producto o servicio, es importante que el cliente identifique la necesidad; si es a nivel empresa, ésta tiene su origen en alguna de las áreas de la organización, en tal caso, tendrán que entregar al encargado de compras los requerimientos y características del producto que necesitan; ahora bien, cuando la necesidad se radica en el cliente final, generalmente se encuentra determinada por el sentimiento de carencia o faltante, siendo muy posible que tal impresión tenga su punto de partida en la acción de algún comercial o anuncio dispuesto en cierto medio de comunicación.
+          p.mb-0 Cuando se piensa en llegar a la decisión de adquirir algún producto o servicio, es importante que el cliente identifique la necesidad; si es a nivel empresa, esta tiene su origen en alguna de las áreas de la organización, en tal caso, tendrán que entregar al encargado de compras los requerimientos y características del producto que necesitan; ahora bien, cuando la necesidad se radica en el cliente final, generalmente se encuentra determinada por el sentimiento de carencia o faltante, siendo muy posible que tal impresión tenga su punto de partida en la acción de algún comercial o anuncio dispuesto en cierto medio de comunicación.
 
-    p.mb-5(data-aos="zoom-in") Una vez identificada la necesidad, el paso a seguir es saber dónde se puede encontrar el producto o servicio, para hacer un comparativo de las ventajas y desventajas que le ofrecen las diversas empresas donde éste se ubica, como por ejemplo: términos de garantía, diferencias en el precio o tiempo de entrega.
+    p.mb-5(data-aos="zoom-in") Una vez identificada la necesidad, el paso a seguir es saber dónde se puede encontrar el producto o servicio, para hacer un comparativo de las ventajas y desventajas que le ofrecen las diversas empresas donde este se ubica, como por ejemplo: términos de garantía, diferencias en el precio o tiempo de entrega.
 
     Separador
 
@@ -40,8 +40,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Toma de decisiones limitadas</i>
         figure.mb-0
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema6/img-03-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna y eterna limitada. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación postcompra compleja.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema6/img-03-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna y eterna limitada. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación postcompra compleja.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-03-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna y eterna limitada. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación postcompra compleja.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-03-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna y eterna limitada. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación postcompra compleja.') 
 
     Separador
     
@@ -55,8 +55,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Toma de decisiones extensiva</i>
         figure.mb-0
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema6/img-04-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones extensiva con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de la información externa. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación compra compleja.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema6/img-04-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de la información externa. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación compra compleja.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-04-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones extensiva con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de la información externa. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación compra compleja.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-04-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de la información externa. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación compra compleja.') 
 
     Separador
 
@@ -70,8 +70,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Toma de decisiones rutinaria</i>
         figure.mb-0
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema6/img-05-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones rutinaria con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna. 3. Compra. 4. Evaluación postcompra limitada.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema6/img-05-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones rutinaria con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna. 3. Compra. 4. Evaluación postcompra limitada.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-05-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones rutinaria con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna. 3. Compra. 4. Evaluación postcompra limitada.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-05-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones rutinaria con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna. 3. Compra. 4. Evaluación postcompra limitada.') 
 
     p.mb-5(data-aos="zoom-in") En la siguiente tabla se exponen los tipos de decisiones de compra para tener un panorama claro del evento a la hora de presentarse con un prospecto de cliente:
 
@@ -90,35 +90,35 @@
                 th(style="color: #fff") Decisión de compra ampliada o extensa
             tbody
               tr
-                td.text-center(style="background-color: #F6F6F6") Características
+                td(style="background-color: #F6F6F6") Características
                 td(style="background-color: #F6F6F6") Productos y servicios de baja implicación. Conocimiento del producto y marca.
                 td(style="background-color: #F6F6F6") Productos y servicios de baja implicación. Conocimiento del producto, pero no de la marca.
                 td(style="background-color: #F6F6F6") Productos y servicios de baja implicación. Poco conocimiento del producto y la marca.
               tr
-                td.text-center Reconocimiento de la necesidad
-                td.text-center Selectiva
-                td.text-center Genérica
-                td.text-center Genérica
+                td Reconocimiento de la necesidad
+                td Selectiva
+                td Genérica
+                td Genérica
               tr
-                td.text-center(style="background-color: #F6F6F6") Búsqueda de información
-                td.text-center(style="background-color: #F6F6F6") Interna limitada
-                td.text-center(style="background-color: #F6F6F6") Interna y externa limitada
-                td.text-center(style="background-color: #F6F6F6") Interna y externa
+                td(style="background-color: #F6F6F6") Búsqueda de información
+                td(style="background-color: #F6F6F6") Interna limitada
+                td(style="background-color: #F6F6F6") Interna y externa limitada
+                td(style="background-color: #F6F6F6") Interna y externa
               tr
-                td.text-center Evaluación de alternativas
+                td Evaluación de alternativas
                 td Pocos atributos y problamente una alternativa
                 td Pocos atributos y alternativas. Reglas de decisión simples
                 td Muchos atributos y alternativas. Reglas de decisión complejas
               tr
-                td.text-center(style="background-color: #F6F6F6") Compra
-                td.text-center(style="background-color: #F6F6F6") Compra
-                td.text-center(style="background-color: #F6F6F6") Compra
-                td.text-center(style="background-color: #F6F6F6") Compra
+                td(style="background-color: #F6F6F6") Compra
+                td(style="background-color: #F6F6F6") Compra
+                td(style="background-color: #F6F6F6") Compra
+                td(style="background-color: #F6F6F6") Compra
               tr
-                td.text-center Evaluación post- compra
-                td.text-center Limitada y sin disonancia
-                td.text-center Limitada y sin disonancia
-                td.text-center Compleja y con disonancia
+                td Evaluación post- compra
+                td Limitada y sin disonancia
+                td Limitada y sin disonancia
+                td Compleja y con disonancia
 
 
 

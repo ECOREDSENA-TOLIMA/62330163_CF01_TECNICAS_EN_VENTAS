@@ -21,7 +21,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema7/icono-08.svg' alt='AvatarTop')
         h3.text-center Manifiesto o declarado
-        p Aquel conflicto que se evidencia fácilmente, la inconformidad se informa de manera verbal o escrita mediante manifiesto explícito; ésta, puede ser ocasionada por aspectos como promociones, precios o condiciones de pago, lo cual puede provocar la afectación de la marca o del almacén donde se adquiere.
+        p Aquel conflicto que se evidencia fácilmente, la inconformidad se informa de manera verbal o escrita mediante manifiesto explícito; esta, puede ser ocasionada por aspectos como promociones, precios o condiciones de pago, lo cual puede provocar la afectación de la marca o del almacén donde se adquiere.
       
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3

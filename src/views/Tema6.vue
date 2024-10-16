@@ -40,8 +40,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Toma de decisiones limitadas</i>
         figure.mb-0
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-03-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna y eterna limitada. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación postcompra compleja.')
-          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-03-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna y eterna limitada. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación postcompra compleja.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-03-01.svg', alt='Se presenta la imagen de un proceso para hacer la toma de decisiones limitadas que tiene los siguientes pasos: Reconocimiento del problema. Búsqueda de información interna y eterna limitada. Evaluación. Formación de actitudes. Compra. Evaluación postcompra compleja.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-03-02.svg', alt='Se presenta la imagen de un proceso para hacer la toma de decisiones limitadas que tiene los siguientes pasos: Reconocimiento del problema. Búsqueda de información interna y eterna limitada. Evaluación. Formación de actitudes. Compra. Evaluación postcompra compleja.') 
 
     Separador
     
@@ -55,8 +55,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Toma de decisiones extensiva</i>
         figure.mb-0
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-04-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones extensiva con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de la información externa. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación compra compleja.')
-          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-04-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones limitada con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de la información externa. 3. Evaluación. 4. Formación de actitudes. 5. Compra. 6. Evaluación compra compleja.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-04-01.svg', alt='Se presenta la imagen de un proceso para hacer la toma de decisiones extensiva que tiene los siguientes pasos: Reconocimiento del problema. Búsqueda de la información externa. Evaluación. Formación de actitudes. Compra. Evaluación de compra compleja.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-04-02.svg', alt='Se presenta la imagen de un proceso para hacer la toma de decisiones extensiva que tiene los siguientes pasos: Reconocimiento del problema. Búsqueda de la información externa. Evaluación. Formación de actitudes. Compra. Evaluación de compra compleja.') 
 
     Separador
 

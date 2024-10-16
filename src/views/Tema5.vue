@@ -37,7 +37,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-014.svg' alt='AvatarTop')
-        h3.text-center Minimización de costos
+        h3.text-center Menor costo
         p No se requiere publicidad constante y la distribución de grandes cantidades reduce costos operativos.
 
       .tarjeta.color-primario.p-4.col-ipad
@@ -51,21 +51,21 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-016.svg' alt='AvatarTop')
-        h3.text-center Oportunidad de crecimiento
+        h3.text-center Crecimiento
         p Permite expandir el mercado más allá de la región local, llegando a nivel nacional e internacional.
       
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-017.svg' alt='AvatarTop')
-        h3.text-center Valorización de la marca
+        h3.text-center Marca
         p Un canal de distribución efectivo mejora la visibilidad y reputación de la marca.
       
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-018.svg' alt='AvatarTop')
-        h3.text-center Facilidad de compra
+        h3.text-center Simplicidad
         p Procedimientos simplificados y ágiles
 
       .tarjeta.color-primario.p-4.col-ipad
@@ -178,7 +178,7 @@
 
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                p.mb-0 #[b Estrategias de marketing globales:] atrae a consumidores de todo el mundo mediante campañas digitales.
+                p.mb-0 #[b Estrategias de #[i(style="color: #000 !important") marketing] globales:] atrae a consumidores de todo el mundo mediante campañas digitales.
 
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")

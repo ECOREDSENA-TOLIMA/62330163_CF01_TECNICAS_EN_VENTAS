@@ -223,7 +223,7 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas bumerán")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas <em>bumerán</em>")
             p Este tipo de pregunta se utiliza cuando el cliente presenta dudas o incertidumbres. La técnica #[i bumerán] permite al vendedor transformar una objeción en una oportunidad de venta. Si el cliente expresa una preocupación, el vendedor puede responder con una pregunta que refuerce el valor del producto, como "¿Le preocupa la durabilidad del producto? Permítame mostrarle cómo nuestros materiales superan a la competencia en resistencia."
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones

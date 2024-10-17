@@ -66,14 +66,14 @@
           .col-8
             img(src='@/assets/curso/temas/tema5/img-018.svg' alt='AvatarTop')
         h3.text-center Simplicidad
-        p Procedimientos simplificados y ágiles
+        p Procedimientos simplificados y ágiles.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img-019.svg' alt='AvatarTop')
         h3.text-center Precios de venta fijos
-        p Procedimientos simplificados y ágiles
+        p Evite la necesidad de ofrecer descuentos excesivos.
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3

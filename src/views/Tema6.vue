@@ -70,8 +70,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Toma de decisiones rutinaria</i>
         figure.mb-0
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-05-01.svg', alt='Hay un gráfico de proceso para la toma de decisiones rutinaria con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna. 3. Compra. 4. Evaluación postcompra limitada.')
-          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-05-02.svg', alt='Hay un gráfico de proceso para la toma de decisiones rutinaria con siguientes pasos: 1. Reconocimiento del problema. 2. Búsqueda de información interna. 3. Compra. 4. Evaluación postcompra limitada.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/img-05-01.svg', alt='Se presenta la imagen de un proceso para hacer la toma de decisiones rutinaria que tiene los siguientes pasos: Reconocimiento del problema. Búsqueda de información interna. Compra. Evaluación postcompra limitada.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/img-05-02.svg', alt='Se presenta la imagen de un proceso para hacer la toma de decisiones rutinaria que tiene los siguientes pasos: Reconocimiento del problema. Búsqueda de información interna. Compra. Evaluación postcompra limitada.') 
 
     p.mb-5(data-aos="zoom-in") En la siguiente tabla se exponen los tipos de decisiones de compra para tener un panorama claro del evento a la hora de presentarse con un prospecto de cliente:
 

@@ -218,6 +218,7 @@
           //- estas clases tambien tienen un modificador --borde
           
           .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas generalizadas")
+            h4 Preguntas generalizadas
             p Estas preguntas están diseñadas para obtener opiniones más amplias y comprender mejor las expectativas del cliente. Por ejemplo, "¿Cómo identifica los beneficios del producto que se ofrece con relación a lo que le ofrece la competencia?" ayuda al vendedor a entender las comparaciones que el cliente realiza y a posicionar mejor su oferta.
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones

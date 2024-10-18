@@ -21,7 +21,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/icono-01.svg' alt='AvatarTop')
-        h3.text-center American Marketing Asociation 
+        h3.text-center American #[i Marketing] Asociation 
         p Venta es: “el proceso personal o impersonal por el que el vendedor comprueba, activa y satisface las necesidades del comprador para el mutuo y continuo beneficio de ambos (del vendedor y el comprador)”.
 
       .tarjeta.color-primario.p-4.col-ipad
@@ -103,7 +103,6 @@
             img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-03.png', alt='Texto que describa la imagen')
               
           .col-lg-7
-            h3 Por áreas geográficas o territorio
             p.mb-0 Este sistema de ventas se basa en la zonificación del mercado en sectores geográficos específicos donde la empresa desea posicionar su producto o servicio. A cada vendedor se le asigna una zona de trabajo definida, lo que le permite concentrarse en un área específica y optimizar sus esfuerzos de ventas. La zonificación requiere considerar aspectos clave como la cantidad de clientes reales y potenciales, la frecuencia de visitas necesarias, los sistemas de transporte disponibles, la demanda del producto, la presencia de la competencia, y las características del equipo de ventas.
             p.mb-0 Este enfoque genera múltiples beneficios para la empresa, los vendedores y los clientes. Para la empresa, permite medir la rentabilidad en cada zona, asignar responsabilidades claras a los vendedores, y lograr una mayor cobertura del mercado. Para los vendedores, facilita un mayor acercamiento a los clientes, mejora las oportunidades de venta, y permite la planificación estratégica del trabajo. Para los clientes, se traduce en un mejor servicio, gracias a la proximidad con el vendedor, y una reducción en el tiempo de respuesta y los costos de inventario.
 
@@ -113,7 +112,6 @@
             img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-04.png', alt='Texto que describa la imagen')
 
           .col-lg-7
-            h3 Por productos
             p.mb-0 El sistema de ventas por productos se organiza en función de las características específicas de los productos que la empresa ofrece. En este caso, cada vendedor debe tener un conocimiento profundo de los aspectos técnicos de los productos, lo que puede resultar en mayores costos debido al tiempo invertido en asesorías y desplazamientos. Sin embargo, este enfoque puede redundar en un aumento de las ventas, ya que permite una atención más especializada y una mayor satisfacción del cliente.
             p.mb-0 Este sistema es particularmente útil para empresas que cuentan con una amplia gama de productos, ya que permite dividir el mercado según las características del producto o el segmento objetivo. De este modo, se asignan equipos de vendedores especializados, entrenados específicamente para cada tipo de producto, lo que asegura un enfoque más preciso y eficiente en la gestión de las ventas.
 
@@ -123,7 +121,6 @@
             img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-05.png', alt='Texto que describa la imagen')
 
           .col-lg-7
-            h3 Por clientes
             p.mb-0 El sistema de ventas por clientes se enfoca en organizar a los clientes en grupos con características comunes, como el volumen de compra, la forma de distribución, y la frecuencia de entrega. Esta segmentación permite a las empresas asignar equipos de ventas especializados a cada segmento, fomentando relaciones más estables y duraderas con los clientes.
             p.mb-0 La clasificación de clientes puede incluir categorías como institucionales, mayoristas, grandes superficies, detallistas, sector público, y sector privado. La principal ventaja de este sistema es el profundo conocimiento que se adquiere de las necesidades de cada tipo de cliente, lo que facilita la creación de estrategias de fidelización y mejora la efectividad de las ventas.
 
@@ -133,7 +130,6 @@
             img.img-t.m-auto(src='@/assets/curso/temas/tema1/img-06.png', alt='Texto que describa la imagen')
 
           .col-lg-7
-            h3 Mixtas
             p.mb-0 El sistema de ventas mixto es una combinación de dos o más de los sistemas anteriormente mencionados. Este enfoque es ampliamente utilizado en el entorno dinámico del mercado actual, ya que permite a las empresas aprovechar las ventajas de múltiples sistemas simultáneamente. La clave del éxito en este sistema radica en contar con un equipo de ventas bien entrenado, tanto en sus funciones específicas como en el conocimiento del producto o servicio que ofrecen. Al combinar estrategias de ventas basadas en la geografía, el producto y el cliente, las empresas pueden aumentar su alcance y efectividad en el mercado. 
 
     p.mb-5(data-aos="zoom-in") Los enfoques del sistema de ventas son de gran utilidad para el empresario, el colaborador y el mercado, a continuación, se muestra un ejemplo del uso de los enfoques:

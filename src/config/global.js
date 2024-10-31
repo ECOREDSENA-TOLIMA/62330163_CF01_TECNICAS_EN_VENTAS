@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Ventas, comunicación y negociación',
     descripcionCurso:
-      'El presente componente formativo trabaja desde la venta entendida como un proceso que requiere comunicación y amplio aspecto de negociación teniendo en cuenta que se trabaja con clientes que pueden llegar a requerir un tratamiento especial. De todo eso trata el presente componente formativo que busca instruir en las técnicas requeridas para hacer una venta.',
+      'El presente componente formativo trabaja desde la venta entendida como un proceso que requiere comunicación y amplio aspecto de negociación, teniendo en cuenta que se trabaja con clientes que pueden llegar a requerir un tratamiento especial. De todo eso trata el presente componente formativo que busca instruir en las técnicas requeridas para hacer una venta.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -117,27 +117,31 @@ export default {
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Business to Business (B2B) —Negocio a Negocio—',
+            titulo: '<em>Business to Business</em> (B2B) —Negocio a Negocio—',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Business to Consumer (B2C) —Negocio a Consumidor—',
+            titulo:
+              '<em>Business to Consumer (B2C)</em> —Negocio a Consumidor—',
             hash: 't_5_2',
           },
           {
             numero: '5.3',
-            titulo: 'Consumer to Consumer (C2C) —Consumidor a Consumidor—',
+            titulo:
+              '<em>Consumer to Consumer (C2C)</em> —Consumidor a Consumidor—',
             hash: 't_5_3',
           },
           {
             numero: '5.4',
-            titulo: 'Consumer to Business (C2B) —Consumidor a Negocio—',
+            titulo:
+              '<em>Consumer to Business (C2B)</em> —Consumidor a Negocio—',
             hash: 't_5_4',
           },
           {
             numero: '5.5',
-            titulo: 'Government to Government (G2G) —Gobierno a Gobierno—',
+            titulo:
+              '<em>Government to Government (G2G)</em> —Gobierno a Gobierno—',
             hash: 't_5_5',
           },
         ],
@@ -222,14 +226,14 @@ export default {
     {
       tema: '2.	Técnicas de ventas',
       referencia:
-        'Axioma Sales Training (2021). Origen y evolución de las técnicas de venta. https://www.youtube.com/watch?v=6T3QPVO6VtI',
+        'Axioma Sales Training (2021). Origen y evolución de las técnicas de venta.',
       tipo: 'Video en línea',
       link: 'https://www.youtube.com/watch?v=6T3QPVO6VtI',
     },
     {
       tema: '5.	Estrategia de negociación',
       referencia:
-        'MeliDesign (2020). Tipos de Comercio Electrónico (B2B, B2C, C2B...). https://www.youtube.com/watch?v=QdStWUKx33Q',
+        'MeliDesign (2020). Tipos de Comercio Electrónico (B2B, B2C, C2B...).',
       tipo: 'Video en línea',
       link: 'https://www.youtube.com/watch?v=QdStWUKx33Q',
     },
@@ -359,7 +363,7 @@ export default {
         },
         {
           nombre: 'Francisco José Vásquez Suárez',
-          cargo: 'Desarrollador full stack',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

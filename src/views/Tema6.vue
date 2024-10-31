@@ -17,7 +17,7 @@
         figure
           img(src="@/assets/curso/temas/tema6/img-02.svg", alt="")
       .col-md-10.col-12
-        p Las decisiones de compra presentan gran variabilidad en el tiempo, esto depende de la notable cantidad posibilidades que brinda la oferta sobre un mismo producto o servicio, o de los particulares requerimientos y exigencias de la demanda sobre estos mismos elementos.
+        p Las decisiones de compra presentan gran variabilidad en el tiempo, esto depende de la notable cantidad de posibilidades que brinda la oferta sobre un mismo producto o servicio, o de los particulares requerimientos y exigencias de la demanda sobre estos mismos elementos.
         p Las variables que afectan esta toma de decisión, se pueden sintetizar en aspectos como: la marca, la cantidad a comprar, dónde comprar, cuándo comprar y cómo se va a realizar el pago. No obstante, se debe considerar además, la influencia en la decisión de compra por parte de terceros involucrados, ya sea positiva o negativamente, de modo que, algunos apoyarán la compra, mientras otros, sencillamente querrán hacer desistir al comprador acudiendo a cualquier tipo de argumentación, circunstancia que debe ser prevista por el vendedor con el aporte de una buena explicación, basada en la excelencia y calidad del producto o servicio ofertado.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
@@ -106,7 +106,7 @@
                 td(style="background-color: #F6F6F6") Interna y externa
               tr
                 td Evaluación de alternativas
-                td Pocos atributos y problamente una alternativa
+                td Pocos atributos y probablemente una alternativa
                 td Pocos atributos y alternativas. Reglas de decisión simples
                 td Muchos atributos y alternativas. Reglas de decisión complejas
               tr
@@ -115,7 +115,7 @@
                 td(style="background-color: #F6F6F6") Compra
                 td(style="background-color: #F6F6F6") Compra
               tr
-                td Evaluación post- compra
+                td Evaluación poscompra
                 td Limitada y sin disonancia
                 td Limitada y sin disonancia
                 td Compleja y con disonancia

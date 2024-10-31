@@ -75,7 +75,7 @@
                 p.mb-0 Del obsequio o promoción
               li(data-aos="fade-down")
                 i.fas.fa-check(style="color: #AC0606")
-                p.mb-0 Del #[i bumerán]
+                p.mb-0 Del bumerán
 
           .col-lg-5
             ul.lista-ul.mb-3
@@ -224,8 +224,8 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas <em>bumerán</em>")
-            p Este tipo de pregunta se utiliza cuando el cliente presenta dudas o incertidumbres. La técnica #[i bumerán] permite al vendedor transformar una objeción en una oportunidad de venta. Si el cliente expresa una preocupación, el vendedor puede responder con una pregunta que refuerce el valor del producto, como "¿Le preocupa la durabilidad del producto? Permítame mostrarle cómo nuestros materiales superan a la competencia en resistencia."
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Preguntas bumerán")
+            p Este tipo de pregunta se utiliza cuando el cliente presenta dudas o incertidumbres. La técnica bumerán permite al vendedor transformar una objeción en una oportunidad de venta. Si el cliente expresa una preocupación, el vendedor puede responder con una pregunta que refuerce el valor del producto, como "¿Le preocupa la durabilidad del producto? Permítame mostrarle cómo nuestros materiales superan a la competencia en resistencia."
           //- .tarjeta debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
@@ -249,7 +249,7 @@
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center 
           .col-lg-7.col-12
-            p Para la expresión verbal la #[b argumentación] es una técnica clave, donde el vendedor persuade al cliente resaltando los beneficios del producto, con una breve descripción enfocada en aspectos positivos. La #[b exposición,] por otro lado, se centra en proporcionar información detallada sobre el producto o servicio, sin desviar la atención.
+            p Para la expresión verbal, la #[b argumentación] es una técnica clave, donde el vendedor persuade al cliente resaltando los beneficios del producto, con una breve descripción enfocada en aspectos positivos. La #[b exposición,] por otro lado, se centra en proporcionar información detallada sobre el producto o servicio, sin desviar la atención.
             p La ventaja principal de la expresión verbal es la interacción directa, que permite una comunicación más dinámica y la posibilidad de ajustar el mensaje en tiempo real, en función de las reacciones del cliente. Sin embargo, es fundamental que el vendedor cuide su expresión corporal para evitar contradicciones y generar confianza. Durante una conversación telefónica, el control del tono y volumen de la voz es crucial, ya que estos aspectos pueden influir en las emociones del cliente y afectar el resultado de la conversación. 
           .col-lg-5.col-8
             figure

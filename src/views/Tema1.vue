@@ -21,7 +21,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/icono-01.svg' alt='AvatarTop')
-        h3.text-center American #[i Marketing] Asociation 
+        h3.text-center American Marketing Asociation 
         p Venta es: “el proceso personal o impersonal por el que el vendedor comprueba, activa y satisface las necesidades del comprador para el mutuo y continuo beneficio de ambos (del vendedor y el comprador)”.
 
       .tarjeta.color-primario.p-4.col-ipad
@@ -150,7 +150,7 @@
               tr
                 td.text-center(style="background-color: #F6F6F6") Por áreas geográficas o territorio
                 td(style="background-color: #F6F6F6") Segmentación del mercado por zonas geográficas, asignando a cada vendedor una región específica.
-                td(style="background-color: #F6F6F6") Una empresa de cosméticos asigna a sus vendedores tanto por zonas geográficas como por tipos de clientes, dividiendo así la ciudad en áreas específicas y dentro de esas áreas, asignando vendedores a salones de belleza y tiendas minoristas.
+                td(style="background-color: #F6F6F6") Una empresa de bebidas asigna a un vendedor la zona norte de la ciudad para que se enfoque en la distribución a supermercados y tiendas de esa área.
               tr
                 td.text-center Por productos
                 td Organización del equipo de ventas en función de las características técnicas de los productos.

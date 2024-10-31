@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema7/img-01.svg', alt='')
       .col-lg-7.col-12.mb-3(data-aos="fade-left")
         p Desde el punto de vista de las ventas, el conflicto se puede definir como aquellas inconformidades o inquietudes que tienen los consumidores acerca de un producto o servicio adquirido o por adquirir; ante esta circunstancia, el vendedor debe estar en capacidad de resolver la situación en el menor tiempo posible, brindando al cliente una respuesta que le asegure comodidad y satisfacción  (Johnston & Marshall, 2016).
-        p Se puede definir el conflicto como aquello que implica una dificultad o mal entendido; para el caso de las ventas, insatisfacción hacia un producto o servicio, ya sea porque no cumple las expectativas o porque una vez recibido el producto presenta alguna anormalidad que requiera su devolución. Los siguientes son unos tipos de conflicto a tener en cuenta:
+        p Se puede definir el conflicto como aquello que implica una dificultad o malentendido; para el caso de las ventas, insatisfacción hacia un producto o servicio, ya sea porque no cumple las expectativas o porque una vez recibido el producto presenta alguna anormalidad que requiera su devolución. Los siguientes son unos tipos de conflicto a tener en cuenta:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-up")
       .tarjeta.color-primario.p-4.col-ipad

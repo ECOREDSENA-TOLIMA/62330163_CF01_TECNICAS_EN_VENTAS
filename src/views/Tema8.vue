@@ -80,7 +80,7 @@
           p.text-small(numero="5" titulo="Respecto a la empresa") El vendedor tiene unas metas de ventas que debe cumplir en tiempos establecidos, debiendo fijar una estrategia que le permita conquistar clientes para los diferentes productos o servicios que hacen parte del portafolio de la organización. 
 
     p(data-aos="zoom-in") Desde hace un tiempo se habla de <b><i>E-commerce</i></b> también conocido como comercio electrónico, negocios por internet o negocios <em>online.</em> Consiste en la adquisición de bienes o servicios a través de medios electrónicos.
-    p.mb-5(data-aos="zoom-in") Con la evolución de la tecnología se hace cada vez más representativo dentro del mercado, pero para las empresas que desean ofertar a través de la <em>web,</em> implica determinar exactamente cuáles son los productos a ofrecer, su entrega, la forma de pago y el servicio post venta (Chaffey, 2022).
+    p.mb-5(data-aos="zoom-in") Con la evolución de la tecnología se hace cada vez más representativo dentro del mercado, pero para las empresas que desean ofertar a través de la <em>web,</em> implica determinar exactamente cuáles son los productos a ofrecer, su entrega, la forma de pago y el servicio posventa (Chaffey, 2022).
 
     h3.mb-5
       span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i.fas.fa-tag] Proceso para iniciar #[i E-commerce]
@@ -323,7 +323,7 @@
           
           li 
             .lista-ol--cuadro__vineta
-              span 2
+              span 3
             | Se ofrece directamente el producto o servicio, incluyendo ofertas y descuentos que son atractivos para el cliente.
 
     p.mb-5(data-aos="zoom-in") En las técnicas de venta, la logística y los canales de distribución juegan un papel importante, ya que el momento de la entrega del producto, es una ocasión en la que el cliente muestra su satisfacción por la adquisición del producto o servicio. Los canales de distribución son estructuras que permiten llevar el producto desde el fabricante hasta el consumidor final. Hay varios tipos de canales y se integran en las siguientes categorías:
@@ -360,7 +360,7 @@
           .tarjeta.color-acento-botones(style="background-color:#FFE3C7")
             .text-black.p-4
               h3.text-center Distribución selectiva o múltiple
-              p Llega a segmentos de mercado controlado, éstos son seleccionados por los ofertantes con el fin de realizar una penetración de mercado más regulada y pertinente sobre segmentos de su particular interés.
+              p Llega a segmentos de mercado controlado, estos son seleccionados por los ofertantes con el fin de realizar una penetración de mercado más regulada y pertinente sobre segmentos de su particular interés.
 
     p.mb-5(data-aos="zoom-in") En la distribución de #[b bienes de consumo] se subclasifica las categorías en los siguientes elementos:
 

@@ -20,7 +20,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_5_1 5.1. Business to Business (B2B) —Negocio a Negocio—
+      h2#t_5_1 5.1. <em>Business to Business (B2B)</em> —Negocio a Negocio—
 
     p(data-aos="zoom-in") Este modelo se enfoca en transacciones entre empresas, como cuando una empresa productora adquiere insumos de otra empresa. Las negociaciones B2B suelen involucrar grandes volúmenes de productos y tienen un impacto significativo en los ingresos debido a la estabilidad y la relación a largo plazo que se establece entre las empresas (Kotler & Keller, 2016).
     p.mb-5(data-aos="zoom-in") Las #[b ventajas] del modelo son las siguientes: 
@@ -144,7 +144,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_5_2 5.2. Business to Consumer (B2C) —Negocio a Consumidor—
+      h2#t_5_2 5.2. <em>Business to Consumer</em> (B2C) —Negocio a Consumidor—
 
     .row.justify-content-center.mb-5
       .col-12.col-md-10.col-lg-10(data-aos="fade-up")
@@ -245,12 +245,12 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 6
-                | Extensión del comercio tradicional: similar al comercio tradicional, pero realizado a través de Internet. .
+                | Extensión del comercio tradicional: similar al comercio tradicional, pero realizado a través de Internet.
 
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_5_3 5.3. Consumer to Consumer (C2C) —Consumidor a Consumidor—
+      h2#t_5_3 5.3. <em>Consumer to Consumer</em> (C2C) —Consumidor a Consumidor—
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.col-12.mb-3(data-aos="fade-right")
@@ -348,7 +348,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_5_4 5.4. Consumer to Business (C2B) —Consumidor a Negocio—
+      h2#t_5_4 5.4. <em>Consumer to Business</em> (C2B) —Consumidor a Negocio—
 
     p Este modelo se basa en que el consumidor final inicia el contacto y establece las condiciones de la venta, a menudo bajo un esquema de subasta inversa.
     p.mb-5 Las #[b ventajas] del modelo son las siguientes: 
@@ -459,7 +459,7 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_5_5 5.5. Government to Government (G2G) —Gobierno a Gobierno—
+      h2#t_5_5 5.5. <em>Government to Government</em> (G2G) —Gobierno a Gobierno—
 
     p Este modelo se refiere a las negociaciones entre diferentes entidades gubernamentales, como entre el gobierno central y sus divisiones regionales, o entre gobiernos de distintos países.
     p.mb-5 Las #[b ventajas] del modelo son las siguientes: 

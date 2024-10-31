@@ -28,7 +28,7 @@
               p.mb-0 #[b ¿Qué alternativa de pago prefiere?]
               p.mb-0 #[b ¿Qué criterios son los que determinan su decisión de compra?]
 
-        p.mb-0 Los clientes puede ser clasificados de varias formas, esta es una de tantas clasificaciones que se puede estar con ellos y se recomienda para efectos de los factores de comunicación y negociación. 
+        p.mb-0 Los clientes pueden ser clasificados de varias formas, esta es una de tantas clasificaciones que se puede estar con ellos y se recomienda para efectos de los factores de comunicación y negociación. 
 
     h3.mb-5
       span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i.fas.fa-tag] a. Por sentido predominante

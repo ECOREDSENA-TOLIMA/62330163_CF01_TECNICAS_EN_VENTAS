@@ -1,1 +1,1 @@
-module.exports = 'Ventas comunicación y negociación'
+module.exports = 'Ventas, comunicación y negociación'

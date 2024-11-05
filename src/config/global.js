@@ -310,7 +310,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -324,22 +324,24 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ingrid Criollo García',
+          nombre: 'Lisseth Tatiana Molano Camacho',
           cargo: 'Experta temática',
-          centro:
-            'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información.',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Rosa Elvia Quintero Guasca',
-          cargo: 'Asesora pedagógica',
-          centro:
-            'Regional Santander. Centro Industrial de Mantenimiento Integral- CIMI.',
-        },
-        {
-          nombre: 'Luis Orlando Beltrán Vargas',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Asesor pedagógico',
-          centro:
-            'Regional Santander. Centro Industrial de Mantenimiento Integral- CIMI.',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Claudia Marcela Gamboa Durán',
+          cargo: 'Guionista',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Guionista',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Luis Fernando Botero Mendoza',
@@ -353,12 +355,12 @@ export default {
       autores: [
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'José Jaime Luis Tang Pinzón',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -382,8 +384,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jorge Eduardo Rueda Peña',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

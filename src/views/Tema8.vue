@@ -79,7 +79,7 @@
           
           p.text-small(numero="5" titulo="Respecto a la empresa") El vendedor tiene unas metas de ventas que debe cumplir en tiempos establecidos, debiendo fijar una estrategia que le permita conquistar clientes para los diferentes productos o servicios que hacen parte del portafolio de la organización. 
 
-    p(data-aos="zoom-in") Desde hace un tiempo se habla de <b><i>e-commerce</i></b> también conocido como comercio electrónico, negocios por internet o negocios <em>online.</em> Consiste en la adquisición de bienes o servicios a través de medios electrónicos.
+    p(data-aos="zoom-in") Desde hace un tiempo se habla de <b><i>E-commerce</i></b> también conocido como comercio electrónico, negocios por internet o negocios <em>online.</em> Consiste en la adquisición de bienes o servicios a través de medios electrónicos.
     p.mb-5(data-aos="zoom-in") Con la evolución de la tecnología se hace cada vez más representativo dentro del mercado, pero para las empresas que desean ofertar a través de la <em>web,</em> implica determinar exactamente cuáles son los productos a ofrecer, su entrega, la forma de pago y el servicio posventa (Chaffey, 2022).
 
     h3.mb-5

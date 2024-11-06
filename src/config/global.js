@@ -162,6 +162,11 @@ export default {
             titulo: 'Decisión extensiva',
             hash: 't_6_2',
           },
+          {
+            numero: '6.3',
+            titulo: 'Decisión rutinaria',
+            hash: 't_6_3',
+          },
         ],
       },
       {
